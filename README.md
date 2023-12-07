@@ -60,3 +60,5 @@ Follow these steps to deploy your application on AWS Elastic Beanstalk with an R
       DB_PASSWORD={your password}
       DB_HOSTNAME={your RDS endpoint}
       ```
+
+**Note:** It is against best practice to show PW in the EB Envrionment Variables.
